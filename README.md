@@ -1,2 +1,3 @@
 # kidpool-web
-Kidpool Web filwa
+This repository contains the files for Kidpool
+
